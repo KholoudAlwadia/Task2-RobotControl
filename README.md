@@ -7,4 +7,4 @@
 5-Merge slider page with remot page
 6-Display page as mobile web veiw
 
-note: the remot control inside menu
+note: the remot control inside menu and there vedio display DB 
